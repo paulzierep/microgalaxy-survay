@@ -1,1 +1,1 @@
-# microgalaxy-survay
+# microgalaxy-survey
