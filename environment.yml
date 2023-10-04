@@ -1,0 +1,9 @@
+name: microgalaxy_user_paper
+channels:
+- conda-forge
+- defaults
+dependencies:
+- notebook
+- matplotlib
+- pandas
+- pyzotero
