@@ -35,6 +35,11 @@ Jupyter Notebooks have been used to generate the graphs for the paper. They are 
     $ make run-jupyter
     ```
 
+    If you plan to run the publication notebook, before launching it:
+    
+    1. Create a [Zotero API key](https://www.zotero.org/settings/keys/new)
+    2. Export the key as an environment variable: `$ export ZOTERO_API=<your_key>`
+
 - Go to [http://localhost:8888](http://localhost:8888) (a page should open automatically in your browser)
 - Open the interesting notebook
 - Make changes and save them
